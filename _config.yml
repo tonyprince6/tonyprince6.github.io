@@ -1,0 +1,22 @@
+title: WANGZI
+#url: ""
+#baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/tonyprince6"
+footer_text: "Welcome to my Space"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "index"
+ - name: "Contact"
+   link: "contact"
