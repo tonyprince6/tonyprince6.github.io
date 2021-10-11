@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="wx.jpg">
 <div id = "con1">
-<a>王梓(Wang Zi)</a>:西南交通大学的一名在读研究生🐶。 
+<a>王梓(Wang Zi)</a>:西南交通大学的一名在读研究生🐶
 </div> 
 <div id = "con1">
 导师：<a href="https://faculty.swjtu.edu.cn/KeMing_Wang/zh_CN/index.htm" >王恪铭(Wang KeMing)</a>
